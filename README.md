@@ -16,3 +16,5 @@ lcerezo@elchupin:~/src/git/blameCamilo$ python3 -m flask run
 
 ```
 
+You can use a local browser to verify.  
+![ScreenShot](blameCamilo_screen.png)
